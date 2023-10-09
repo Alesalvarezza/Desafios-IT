@@ -1,0 +1,84 @@
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 16px;
+  color: #d0d8dc;
+  text-align: justify;
+}
+
+header h1 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 80px;
+  text-align-last: center;
+  background-color: #ffffff;
+  color: #698593;
+  padding: 5px;
+}
+
+.title-asp {
+  font-family: Arial, Gadget, sans-serif;
+  color: #e6cbbf;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.image-asp {
+  margin-left: 50px;
+  border: 5px solid #e6cbbf;
+}
+
+.title-cel {
+  font-family: Arial, Gadget, sans-serif;
+  color: #a1c1cb;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.image-cel {
+  margin-left: 50px;
+  border: 5px solid #a1c1cb;
+}
+
+.title-cons {
+  font-family: Arial, Gadget, sans-serif;
+  color: #bcbdbf;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.image-cons {
+  margin-left: 50px;
+  border: 5px solid #bcbdbf;
+}
+
+.title-home {
+  font-family: Arial, Gadget, sans-serif;
+  color: #8d94a1;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.image-home {
+  margin-left: 50px;
+  border: 5px solid #8d94a1;
+}
+
+.title-tele {
+  font-family: Arial, Gadget, sans-serif;
+  color: #b2b2aa;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.image-tele {
+  margin-left: 50px;
+  border: 5px solid #b2b2aa;
+}
+
+body {
+  background-color: #273238;
+}

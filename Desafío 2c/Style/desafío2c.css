@@ -1,0 +1,58 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #4974b4;
+  text-align: left;
+}
+
+.logo-hotel {
+  text-align: center;
+}
+
+.header-container {
+  width: 30%;
+  font-weight: ;
+}
+
+h1 {
+  color: #bb5397;
+  letter-spacing: 20px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #bb5397;
+  letter-spacing: 10px;
+  font-size: 100%;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.float-right {
+  float: right;
+  height: 210px;
+  width: 400px;
+  margin-left: 16px;
+}
+
+.float-left {
+  float: left;
+  height: 210px;
+  width: 400px;
+  margin-right: 16px;
+}
+
+.float-right {
+  float: right;
+  height: 210px;
+  width: 400px;
+  margin-left: 16px;
+}
+
+.image-m-m {
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}

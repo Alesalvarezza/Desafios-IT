@@ -1,0 +1,22 @@
+.header-container {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #fcea3e;
+  text-align: center;
+  justify-content: center;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+body {
+  background-color: #289688;
+}
+
+.container-galery {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.galery-images {
+  border: 15px solid white;
+  margin: 16px;
+}
